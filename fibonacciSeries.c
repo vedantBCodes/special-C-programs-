@@ -1,5 +1,5 @@
 #include<stdio.h>
-fibonaccySeries(int num)
+fibonacciSeries(int num)
 {
     int i,a,b,c;
     a=0;
